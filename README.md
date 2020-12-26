@@ -18,6 +18,3 @@ Automate Journal abstract Crawling with Python
 > 6. find figure and save
 > 7. make a readable format document
 > 8. repeat this procedure
-
-
-## 1
